@@ -1,0 +1,8 @@
+﻿,,,,,Block,,,,,,,,,,,,,,Spike_f,Block,Block,Block,Block,,,,,,,,,,,,,,end
+,,,,,Block,,,,,,,,,,,,,,,Spike_f,Block,Block,Block,,,,,,,,,,,,,,end
+,,,,,Block,,,,,,,,,,Block,Spike,,,,,Spike_f,Block,Block,,,,,,,,,,,,,,end
+,,,,,Block,,,,,,,,,Block,Block,Block,,,,,,Spike_f,Block,,,,,,,,,,,,,,end
+,,,,,Spike_f,,,,,,,,Block,Block,Block,Block,,,,,,,Spike_f,,,,,,,,,,,,,,end
+gm_Ship,,,,,,,,,,,,Block,Block,Block,Block,Block,,,,,,,,,,,,,,,,,,,,,end
+gm_Ship,,,,,,,,,Spike,Spike,Block,Block,Block,Block,Block,Block,,,,,,,,,,,,,,,,,,,,,end
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
